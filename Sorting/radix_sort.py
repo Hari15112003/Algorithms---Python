@@ -10,6 +10,7 @@
 # A function to do counting sort of arr[] according to 
 # the digit represented by exp. 
 def countingSort(arr, exp1): 
+	# counting sort is faster than radix sort
 
 
 	n = len(arr) 
@@ -24,6 +25,7 @@ def countingSort(arr, exp1):
 	for i in range(0, n): 
         # exp denotes the digit place value like  1, 10, 100, 1000 ,...
 		index = (arr[i]/exp1) 
+		print(index)
 		count[int((index)%10)] += 1
 
 	# Change count[i] so that count[i] now contains actual 

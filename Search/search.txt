@@ -1,0 +1,6 @@
+Some other Searching algoritms:
+
+1. Exponential Searching
+2. Terinary Searching
+3. Interpolation Searching (better than bs)
+4. Jump Searching

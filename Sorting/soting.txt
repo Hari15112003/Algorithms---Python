@@ -1,0 +1,10 @@
+1. Bucket sort  - (0-9 ) create bucket and add elements each bucket is sorted seperately and finaly put in to one sorted array
+2. stupid , monkey sort
+3. odd even sort
+4. bitonic sort
+5. cock tail sort
+6.gnome sort AND moRE
+
+
+
+

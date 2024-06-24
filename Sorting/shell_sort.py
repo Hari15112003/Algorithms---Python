@@ -8,7 +8,7 @@
 
 def shellSort(arr):
 	n = len(arr)
-	gap = int(n/2)
+	gap = int(n/2)  # flooe value
 
 	# Do a gapped insertion sort for this gap size.
 	# The first gap elements a[0..gap-1] are already in gapped
@@ -45,3 +45,5 @@ shellSort(arr)
 
 print ("\nArray after sorting:")
 print(arr),
+
+
